@@ -1,0 +1,14 @@
+IMDbPY
+pySmartDL
+translate
+beautifulsoup4
+aiohttp
+pyromod
+pymediainfo
+wikipedia
+pyttsx3
+currencyconverter
+countryinfo
+telegraph
+importlib
+pymysql
